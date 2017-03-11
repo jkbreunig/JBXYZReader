@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    }
+]
