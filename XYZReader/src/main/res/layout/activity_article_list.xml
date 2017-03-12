@@ -25,7 +25,7 @@
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="112dp"
-        android:background="?colorPrimary"
+        android:background="@color/primary"
         android:elevation="8dp">
 
         <android.support.v7.widget.Toolbar
@@ -41,6 +41,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/logo"
+                android:background="@color/primary"
                 android:contentDescription="@string/app_name" />
 
         </android.support.v7.widget.Toolbar>

@@ -44,6 +44,7 @@ public class RemoteEndpointUtil {
     }
 
     static String fetchPlainText(URL url) throws IOException {
+        Log.d("URL", url.toString());
         OkHttpClient client = new OkHttpClient();
 
         Request request = new Request.Builder()

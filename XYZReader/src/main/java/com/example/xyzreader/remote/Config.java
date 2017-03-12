@@ -9,7 +9,9 @@ public class Config {
     static {
         URL url = null;
         try {
-            url = new URL("https://dl.dropboxusercontent.com/u/231329/xyzreader_data/data.json" );
+            String u = "https://raw.githubusercontent.com/Protino/dump/master/Lego/data.json";
+                    // String u = "https://dl.dropboxusercontent.com/u/231329/xyzreader_data/data.json"
+            url = new URL(u);
         } catch (MalformedURLException ignored) {
             // TODO: throw a real error
         }
