@@ -70,6 +70,8 @@
     <color name="notification_material_background_media_default_color">#ff424242</color>
     <color name="photo_placeholder">#ccc</color>
     <color name="primary">#4CAF50</color>
+    <color name="primaryTextDarkBkgd">#FFFFFFFF</color>
+    <color name="primaryTextLightBkgd">#FF000000</color>
     <color name="primary_dark">#2E7D32</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -81,6 +83,8 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
+    <color name="secondaryTextDarkBkgd">#B3FFFFFF</color>
+    <color name="secondaryTextLightBkgd">#B3000000</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
@@ -467,6 +471,8 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="app_bar_elevation">8dp</dimen>
+    <dimen name="app_bar_height">112dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -523,6 +529,7 @@
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_pressed_translation_z">12dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
@@ -533,8 +540,8 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
-    <dimen name="list_side_margin">4dp</dimen>
-    <dimen name="list_toolbar_side_margin">0dp</dimen>
+    <dimen name="list_horizontal_margin">4dp</dimen>
+    <dimen name="list_toolbar_horizontal_margin">0dp</dimen>
     <dimen name="notification_action_icon_size">32dp</dimen>
     <dimen name="notification_action_text_size">13sp</dimen>
     <dimen name="notification_big_circle_margin">12dp</dimen>
