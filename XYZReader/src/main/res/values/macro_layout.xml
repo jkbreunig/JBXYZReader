@@ -2,7 +2,10 @@
     <!-- list -->
     <dimen name="list_horizontal_margin">4dp</dimen>
     <dimen name="list_toolbar_horizontal_margin">0dp</dimen>
+    <dimen name="recycler_view_top_margin">4dp</dimen>
+    <dimen name="recycler_view_bottom_margin">4dp</dimen>
     <integer name="list_column_count">2</integer>
+    <dimen name="list_item_deafult_margin">16dp</dimen>
 
     <!-- detail -->
     <bool name="detail_is_card">false</bool>

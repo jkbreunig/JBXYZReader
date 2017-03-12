@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 12 00:59:02 CST 2017
+#Sun Mar 12 01:23:25 CST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/abc_alert_dialog_material.xml
 14.set=ANDROID_RESOURCE

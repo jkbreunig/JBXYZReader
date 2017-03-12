@@ -565,21 +565,21 @@ public final class R {
 		public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f070090;
 		public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f070091;
 		public static final int item_touch_helper_swipe_escape_velocity = 0x7f070092;
-		public static final int notification_action_icon_size = 0x7f070093;
-		public static final int notification_action_text_size = 0x7f070094;
-		public static final int notification_big_circle_margin = 0x7f070095;
+		public static final int notification_action_icon_size = 0x7f070094;
+		public static final int notification_action_text_size = 0x7f070095;
+		public static final int notification_big_circle_margin = 0x7f070096;
 		public static final int notification_content_margin_start = 0x7f070023;
-		public static final int notification_large_icon_height = 0x7f070096;
-		public static final int notification_large_icon_width = 0x7f070097;
+		public static final int notification_large_icon_height = 0x7f070097;
+		public static final int notification_large_icon_width = 0x7f070098;
 		public static final int notification_main_column_padding_top = 0x7f070024;
 		public static final int notification_media_narrow_margin = 0x7f070025;
-		public static final int notification_right_icon_size = 0x7f070098;
+		public static final int notification_right_icon_size = 0x7f070099;
 		public static final int notification_right_side_padding_top = 0x7f070021;
-		public static final int notification_small_icon_background_padding = 0x7f070099;
-		public static final int notification_small_icon_size_as_large = 0x7f07009a;
-		public static final int notification_subtext_size = 0x7f07009b;
-		public static final int notification_top_pad = 0x7f07009c;
-		public static final int notification_top_pad_large_text = 0x7f07009d;
+		public static final int notification_small_icon_background_padding = 0x7f07009a;
+		public static final int notification_small_icon_size_as_large = 0x7f07009b;
+		public static final int notification_subtext_size = 0x7f07009c;
+		public static final int notification_top_pad = 0x7f07009d;
+		public static final int notification_top_pad_large_text = 0x7f07009e;
 	}
 	public static final class drawable {
 		public static final int abc_ab_share_pack_mtrl_alpha = 0x7f020000;
@@ -933,9 +933,9 @@ public final class R {
 		public static final int abc_shareactionprovider_share_with = 0x7f060010;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f060011;
 		public static final int abc_toolbar_collapse_description = 0x7f060012;
-		public static final int appbar_scrolling_view_behavior = 0x7f060025;
-		public static final int bottom_sheet_behavior = 0x7f060026;
-		public static final int character_counter_pattern = 0x7f060027;
+		public static final int appbar_scrolling_view_behavior = 0x7f060024;
+		public static final int bottom_sheet_behavior = 0x7f060025;
+		public static final int character_counter_pattern = 0x7f060026;
 		public static final int search_menu_title = 0x7f060013;
 		public static final int status_bar_notification_info_overflow = 0x7f060014;
 	}
