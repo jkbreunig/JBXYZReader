@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1009319707706547"
+    timestamp="1010517620380792"
     token="5251116929413266867"
     verifier="COMPATIBLE" >
 
@@ -27,44 +27,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="1005390652203739"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="1010351163806250"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="1005676732923368"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1006680789798198"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1009182741703683"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1009319707706547"
+        timestamp="1010517620380792"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
