@@ -8,4 +8,7 @@
 
     <string name="up">Up</string>
 
+    <string name="article_title_transition">ARTICLE_TITLE_TRANSITION</string>
+    <string name="article_thumbnail_transition">ARTICLE_THUMBNAIL_TRANSITION</string>
+
 </resources>

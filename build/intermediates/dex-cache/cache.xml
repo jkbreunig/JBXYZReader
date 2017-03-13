@@ -3,48 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_7af5811e7bb5662caf6f1b95250f086e0e196faf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_b949c816f80110e033acc279ebe484237b52d198/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_6f1993aa503f048deff406f60e28b2ddf691ee39/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6cdf45186b988c7d9c8899797abdf2bea7bb2f3d">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8157cd5fa620bde7e5e67632320c21109f11717/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_89c182d29178007934d19948f11b31218d270499/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,24 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_ca7c1e89a32509988da35c7a1f25add2168140b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3b0da662a83bccb6f045b8c0097da601d32e15e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/libs/volley.jar"
         jumboMode="true"
         optimize="true"
@@ -84,20 +30,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_47c4edc9ca5f2d4349c5f2658f91c0535bc9980e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="887d645ce0b2b3104b0117a4a0807105875be4ce">
+        sha1="959578022237ec7ec28f3f954912858e84ce9e2d">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16a66da39d5dde6324ff9fa2815b8700ddc58eb/classes.dex" />
     </item>
     <item
@@ -108,15 +45,6 @@
         revision="25.0.1"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b9e5b133397cb173aa84c1d9ea8524f3944841c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_149eff0b40cc2ffd3f8f73ad4b09b387be461139/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,24 +66,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c4fca57ed55a6775abec0283f42df4ef73348130">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16a66da39d5dde6324ff9fa2815b8700ddc58eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1b9a75309c18a217ce20184ceab3c029c8c5e6c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
         jumboMode="true"
         optimize="true"
@@ -174,21 +84,138 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f945d424b58b7eb96b657a77a02ae9a721a2ed04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_70cc9fabc303ee7a191840a5fc446d55bd1c3683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_773ad6a1aa8f0380f519ffb856338a5a4e814e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6169f4673e6ffb471af63736eda0684750b72022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_981b45d52a17f799a3fa8eceafe2ce2809caf26b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_7af5811e7bb5662caf6f1b95250f086e0e196faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_6f1993aa503f048deff406f60e28b2ddf691ee39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_89c182d29178007934d19948f11b31218d270499/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e24db21037e69c626a941570e3165286db77eb4">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8157cd5fa620bde7e5e67632320c21109f11717/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_ca7c1e89a32509988da35c7a1f25add2168140b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3b0da662a83bccb6f045b8c0097da601d32e15e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_47c4edc9ca5f2d4349c5f2658f91c0535bc9980e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_149eff0b40cc2ffd3f8f73ad4b09b387be461139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4fca57ed55a6775abec0283f42df4ef73348130">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16a66da39d5dde6324ff9fa2815b8700ddc58eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1b9a75309c18a217ce20184ceab3c029c8c5e6c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jkbreunig/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f945d424b58b7eb96b657a77a02ae9a721a2ed04/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -219,15 +246,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_773ad6a1aa8f0380f519ffb856338a5a4e814e97/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -255,15 +273,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6169f4673e6ffb471af63736eda0684750b72022/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -279,15 +288,6 @@
         revision="25.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_5e937cce2d7a8c6bceead9c8f7d325983b88b658/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_981b45d52a17f799a3fa8eceafe2ce2809caf26b/classes.dex" />
     </item>
 
 </items>

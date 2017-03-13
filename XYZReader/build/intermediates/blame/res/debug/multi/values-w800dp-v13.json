@@ -11,7 +11,14 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values-w800dp/macro_layout.xml"
+                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 53,
+                        "endOffset": 293
+                    }
                 }
             },
             {
@@ -61,7 +68,14 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values-w800dp/macro_layout.xml"
+                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 49,
+                        "endOffset": 218
+                    }
                 }
             }
         ]

@@ -19,7 +19,8 @@
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:background="@color/photo_placeholder" />
+            android:background="@color/photo_placeholder"
+            android:transitionName="@string/article_thumbnail_transition" />
 
         <TextView
             android:id="@+id/article_title"
@@ -33,7 +34,8 @@
             android:textColor="@color/primaryTextLightBkgd"
             android:text="Article title"
             android:maxLines="4"
-            android:ellipsize="end" />
+            android:ellipsize="end"
+            android:transitionName="@string/article_title_transition" />
 
         <TextView
             android:id="@+id/article_subtitle"
