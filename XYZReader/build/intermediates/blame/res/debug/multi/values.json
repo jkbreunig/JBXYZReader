@@ -2651,7 +2651,14 @@
                     "endOffset": 45859
                 },
                 "from": {
-                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/dimens.xml"
+                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 43,
+                        "endOffset": 383
+                    }
                 }
             },
             {
@@ -2663,7 +2670,14 @@
                     "endOffset": 45901
                 },
                 "from": {
-                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/dimens.xml"
+                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 41,
+                        "endOffset": 479
+                    }
                 }
             },
             {
@@ -3767,14 +3781,7 @@
                     "endOffset": 52105
                 },
                 "from": {
-                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 348,
-                        "endColumn": 85,
-                        "endOffset": 429
-                    }
+                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -3786,14 +3793,7 @@
                     "endOffset": 52183
                 },
                 "from": {
-                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 270,
-                        "endColumn": 77,
-                        "endOffset": 343
-                    }
+                    "file": "/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/src/main/res/values/strings.xml"
                 }
             },
             {

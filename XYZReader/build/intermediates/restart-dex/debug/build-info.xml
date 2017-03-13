@@ -5,26 +5,26 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1075546508124703"
+    timestamp="1076323172905583"
     token="5251116929413266867"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="85" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="289" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="7" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1" />
+        duration="0" />
 
     <artifact
-        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         timestamp="1058395336285601"
@@ -44,28 +44,18 @@
             type="DEX" />
     </build>
     <build
-        timestamp="1075163176673796"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1076037810431323"
+        verifier="METHOD_DELETED" >
         <artifact
             location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="1075315325977743"
+        timestamp="1076323172905583"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/builds/debug/1075315325977743/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="1075546508124703"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

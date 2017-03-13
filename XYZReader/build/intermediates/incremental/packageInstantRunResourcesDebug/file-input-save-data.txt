@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 12 20:01:42 CDT 2017
+#Sun Mar 12 20:18:30 CDT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/design_layout_snackbar.xml
