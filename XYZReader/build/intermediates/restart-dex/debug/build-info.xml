@@ -5,9 +5,8 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1076323172905583"
-    token="5251116929413266867"
-    verifier="COMPATIBLE" >
+    timestamp="1079906827613986"
+    token="5251116929413266867" >
 
     <task
         name="javac"
@@ -21,10 +20,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
 
     <build
         timestamp="1058395336285601"
@@ -51,11 +46,12 @@
             type="DEX" />
     </build>
     <build
-        timestamp="1076323172905583"
+        timestamp="1076892987219470"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
     </build>
+    <build timestamp="1079906827613986" />
 
 </instant-run>
