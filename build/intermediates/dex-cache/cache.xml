@@ -30,15 +30,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="52bab3e43945a1726480204bc86d52eda7d477e4">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16a66da39d5dde6324ff9fa2815b8700ddc58eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -93,15 +84,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_773ad6a1aa8f0380f519ffb856338a5a4e814e97/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -151,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="30e5bf8d615d9f2ba7bbf54303bf45e316c17f36">
+        sha1="6fab2a435facc33af2c159ff563074f50c550dd3">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8157cd5fa620bde7e5e67632320c21109f11717/classes.dex" />
     </item>
     <item
@@ -192,15 +174,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c4fca57ed55a6775abec0283f42df4ef73348130">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16a66da39d5dde6324ff9fa2815b8700ddc58eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -225,15 +198,6 @@
         revision="22.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
         <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_abf5b2075377a8d9b18d89fc18dd8caf85df9a55/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_0dda3a8113505d141abcb7100a2300e4746226b5/classes.dex" />
     </item>
     <item
         is-multidex="true"

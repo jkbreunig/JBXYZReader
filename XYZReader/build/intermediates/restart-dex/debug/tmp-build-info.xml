@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1109215848241335"
+    token="5251116929413266867"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="379" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="224" />
+    <task
+        name="verifier"
+        duration="30" />
+
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_149eff0b40cc2ffd3f8f73ad4b09b387be461139/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_981b45d52a17f799a3fa8eceafe2ce2809caf26b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_ca7c1e89a32509988da35c7a1f25add2168140b8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1b9a75309c18a217ce20184ceab3c029c8c5e6c0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f945d424b58b7eb96b657a77a02ae9a721a2ed04/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c085fe1c3b501192f18f2d18cbc674ed6e310ed1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_6f1993aa503f048deff406f60e28b2ddf691ee39/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a4630fc14a4dbd16af55c22b098f00cc7f135ce6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_b949c816f80110e033acc279ebe484237b52d198/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_e0873243c397328032d7f7611e19dffac8700b73/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6169f4673e6ffb471af63736eda0684750b72022/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_5e937cce2d7a8c6bceead9c8f7d325983b88b658/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_61ef23e7c30b3fc439b878e84ffbf0aca580327a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_89c182d29178007934d19948f11b31218d270499/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_5ad061f0e077ad8e6343ef42c5d36b7d2366ec6a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.0.1_88aac2989c5d871d857cc4a1285280585856297e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_fa4f61fcc11501d8d7f4f04bd3d975b89e7f890e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8157cd5fa620bde7e5e67632320c21109f11717/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b9e5b133397cb173aa84c1d9ea8524f3944841c1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_7af5811e7bb5662caf6f1b95250f086e0e196faf/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_70cc9fabc303ee7a191840a5fc446d55bd1c3683/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3b0da662a83bccb6f045b8c0097da601d32e15e8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_47c4edc9ca5f2d4349c5f2658f91c0535bc9980e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_abf5b2075377a8d9b18d89fc18dd8caf85df9a55/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/jkbreunig/Documents/android-udacity-projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16a66da39d5dde6324ff9fa2815b8700ddc58eb/classes.dex"
+        type="DEX" />
+
+</instant-run>
